@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+## DHaval Patel
 import numpy as np
 import scipy.stats
 import matplotlib.pyplot as plt
