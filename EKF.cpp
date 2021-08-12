@@ -12,8 +12,8 @@ using namespace std;
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
 using std::vector;
-string sensor_file_name = "/home/avii/Documents/SLAM/data/data/sensor_data.dat";
-string landmarks_file = "/home/avii/Documents/SLAM/data/data/world.dat";
+string sensor_file_name = "/home/Dhaval/Documents/SLAM/data/data/sensor_data.dat";
+string landmarks_file = "/home/Dhaval/Documents/SLAM/data/data/world.dat";
 using namespace Read_data;
 
 
