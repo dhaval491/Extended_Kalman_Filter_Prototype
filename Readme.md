@@ -2,3 +2,6 @@ The package consists of EKF implementation of a 2d space motion of the robot wit
 in the world. The read arrows are the landmarks it sees for state estimation. The blue eliptical region is the state estimation based on gaussian noise.
 
 ![EKF Localization](https://github.com/dhaval491/Extended_Kalman_Filter_Prototype/blob/main/EKF_DEMO.gif)
+
+**Recorded Path is Shown Below**
+![Recorded Path](https://github.com/dhaval491/Extended_Kalman_Filter_Prototype/blob/main/Recorded_path.png)
